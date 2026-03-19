@@ -66,7 +66,7 @@ This principle applies to all documents in this repository and to any compliant 
 |---|---|
 | Constitutional Framework | v2.2 — Freeze Edition |
 | Copyright Filing | Initiated 23 February 2026 |
-| Domain | [pai-kernel.org](https://pai-kernel.org) |
+| Domain | [paikernel.org](https://paikernel.org) |
 | Fiscal Host | Open Source Collective (pending) |
 | Foundation | In formation |
 
@@ -98,7 +98,7 @@ Please open an Issue to begin a public discussion.
 ## Contact
 
 For institutional inquiries, academic collaboration, or governance discussion:  
-Open an Issue in this repository or reach out via [pai-kernel.org](https://pai-kernel.org).
+Open an Issue in this repository or reach out via [paikernel.org](https://paikernel.org).
 
 ---
 
