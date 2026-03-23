@@ -9,7 +9,13 @@
 
 ## What This Is
 
-PAI-Kernel is the public normative layer of the **PAI Constitutional Framework (PAI-CD)** — a formal specification defining the constitutional principles, authorial rights, and governance invariants for Personal Authorial Intelligence systems.
+**PAI (Personal Authorial Intelligence)** is a normative framework that ensures AI systems operate exclusively under the declared and verifiable authority of the human author they represent.
+
+PAI defines the constitutional conditions required to preserve authorial sovereignty at the deployment layer of AI systems.
+
+**PAI-Kernel** is the public normative layer of the **PAI Constitutional Framework (PAI-CD)** — a formal specification defining the constitutional principles, authorial rights, and governance invariants for Personal Authorial Intelligence systems.
+
+The PAI Constitutional Framework (PAI-CD) is a structured corpus of normative documents establishing the governance model of PAI systems.
 
 This repository contains the **Public Edition**: the foundational documents that establish the language, philosophy, and non-derogable rights of the PAI protocol.
 
@@ -102,4 +108,4 @@ Open an Issue in this repository or reach out via [paikernel.org](https://paiker
 
 ---
 
-*PAI-Kernel is a public normative protocol. It is not affiliated with any AI provider.*
+*PAI-Kernel is a public normative layer of PAI-CD. It is not affiliated with any AI provider.*
