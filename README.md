@@ -2,7 +2,7 @@
 
 **Personal Authorial Intelligence — Constitutional Framework**
 
-> A normative protocol for human-centric AI governance.  
+> A normative layer for human-centric AI governance.  
 > Version 2.2 — Public Edition
 
 ---
