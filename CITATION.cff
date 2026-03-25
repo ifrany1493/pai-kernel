@@ -23,6 +23,10 @@ identifiers:
     value: "10.5281/zenodo.19151899"
     description: "All versions (concept DOI — always resolves to latest)"
 keywords:
+  - Personal Authorial Intelligence
+  - PAI
+  - PAI-CD
+  - PAI-Kernel
   - artificial intelligence
   - AI governance
   - constitutional AI
