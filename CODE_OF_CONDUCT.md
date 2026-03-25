@@ -1,4 +1,5 @@
 # Code of Conduct
+
 ## PAI-Kernel · PAI Constitutional Document (PAI-CD)
 
 **Version:** 1.0 · March 2026
