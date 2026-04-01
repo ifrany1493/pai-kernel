@@ -36,7 +36,7 @@
     },
     {
       "scheme": "doi",
-      "identifier": "https://doi.org/10.5281/zenodo.19151899",
+      "identifier": "10.5281/zenodo.19151899",
       "relation": "isNewVersionOf",
       "resource_type": "publication-standard"
     }
